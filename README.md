@@ -1,11 +1,11 @@
 # Cognoa, Inc.
 
-![Cognoa Logo](Desktop/AI_Boot_Camp/Module_1/ai-case-study/images/cognoa_logo.png)
+![Cognoa Logo](images/cognoa_logo.png)
 
 ## Overview and Origin
 
 Cognoa, Inc. is a pediatric behavioral health company headquartered in Palo Alto, California, operating primarily in the healthcare and artificial intelligence industries. Founded in 2013 by **Dennis Wall** and **Brent Vaughan**, the company aims to improve the early diagnosis and treatment of behavioral health conditions, particularly autism. The idea for Cognoa emerged from Dennis Wall's experiences in autism research, recognizing the need for better diagnostic tools to assist families facing developmental disorders. With a focus on leveraging AI technology, Cognoa has successfully developed its flagship product, **Canvas Dx**, an FDA-authorized diagnostic tool used by healthcare providers to diagnose or rule out autism in children aged 1.5 to 6 years.
-![Canvas Dx Logo](Desktop/AI_Boot_Camp/Module_1/ai-case-study/images/canvasdx_logo.webp)
+![Canvas Dx Logo](images/canvasdx_logo.webp)
 
 Cognoa has received a total of **$125 million** in funding from three investors, enabling it to advance its mission of enhancing the lives and outcomes of children and families living with behavioral conditions. The current CEO, **Sharief Taraman, MD**, along with the founding team, continues to drive innovation within the company, making significant strides in addressing the challenges of timely and accurate diagnosis in the pediatric behavioral health space.
 
