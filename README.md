@@ -6,7 +6,8 @@
 
 Cognoa, Inc. is a pediatric behavioral health company headquartered in Palo Alto, California, operating primarily in the healthcare and artificial intelligence industries. Founded in 2013 by **Dennis Wall** and **Brent Vaughan**, the company aims to improve the early diagnosis and treatment of behavioral health conditions, particularly autism. The idea for Cognoa emerged from Dennis Wall's experiences in autism research, recognizing the need for better diagnostic tools to assist families facing developmental disorders. With a focus on leveraging AI technology, Cognoa has successfully developed its flagship product, **Canvas Dx**, an FDA-authorized diagnostic tool used by healthcare providers to diagnose or rule out autism in children aged 1.5 to 6 years.
 
-![Canvas Dx Logo](images/canvasdx_logo.webp)
+> "By bringing autism diagnosis into the digital age, Cognoa is pioneering a new approach to autism diagnosis to improve health outcomes, quality of life for families, and by doing so, improving what is today a very complex system."
+> — [Dennis Wall, Co-Founder of Cognoa](https://www.unite.ai/dennis-wall-phd-co-founder-of-cognoa-interview-series/)
 
 Cognoa has received a total of **$125 million** in funding from three investors, enabling it to advance its mission of enhancing the lives and outcomes of children and families living with behavioral conditions. The current CEO, **Sharief Taraman, MD**, along with the founding team, continues to drive innovation within the company, making significant strides in addressing the challenges of timely and accurate diagnosis in the pediatric behavioral health space.
 
@@ -40,7 +41,7 @@ The AI domain related to behavioral health has seen significant advancements ove
 4. **Biofuture:** [Brent Vaughan Biography](https://biofuture.com/brent-vaughan/)
 5. **Crunchbase:** [Brent Vaughan Profile](https://www.crunchbase.com/person/brent-vaughan/)
 6. **Market Research Report:** [Autism Disorder and Treatment Market Report](https://www.cognitivemarketresearch.com/autism-disorder-and-treatment-market-report?campaign_name=cmr_dsa_optimized&campaign_source=google_ads&campaign_name=us_pmax_dynamic&gad_source=1&gclid=Cj0KCQjwq_G1BhCSARIsACc7Nxoc_6kaqf4Ju4Q3HyFabJPq9jDYDK7kg9DuvDqc7xLzSd14M4TzQioaAqtLEALw_wcB)
-
+7. [Interview with Dennis Wall](https://www.unite.ai/dennis-wall-phd-co-founder-of-cognoa-interview-series/)
 
 
 
